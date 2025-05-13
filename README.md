@@ -1,4 +1,6 @@
 💱 Conversor de Moedas
+![Conversor de moedas](https://github.com/user-attachments/assets/c945f98c-4881-4a90-81ea-07eedd19e125)
+
 
 Projeto desenvolvido como parte da formação em Programação e Inteligência Artificial da Alura.
 
@@ -39,20 +41,13 @@ main: Classe principal de execução
 
 ▶️ Como Executar
 Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seuusuario/conversor-moedas.git
+(https://github.com/PauloR16/ChallengeConversorDeMoedas.git)
 cd conversor-moedas
 Abra o projeto em sua IDE Java favorita.
 
 Certifique-se de ter o Java instalado e configurado.
 
 Execute a classe principal (Main.java).
-
-📷 Imagem de Capa
-A imagem de capa representa o título "Conversor de Moedas" com ícones de dólar e euro, simbolizando a conversão entre diferentes moedas.
 
 📚 Créditos
 Este projeto foi desenvolvido como parte do curso da Alura.
